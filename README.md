@@ -1,6 +1,6 @@
 ## Hello my name is Lucas Mocroski, welcome to my GitHub.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mocroski)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=Mocroski&theme=tokyonight )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mocroski&theme=tokyonight)
 
 
 ## ✉️ Find me on:
