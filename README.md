@@ -12,7 +12,7 @@
 </div>
 
 
-## ✉️ Find me on:
+##  Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/lucas-mocroski-51a7a0216"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:devmocroski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
