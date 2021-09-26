@@ -17,6 +17,8 @@
  <a href="https://www.linkedin.com/in/lucas-mocroski-51a7a0216"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:devmocroski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/sr_mocroski/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://stackoverflow.com/users/16358326/mr-mocroski"><img src="https://img.shields.io/badge/-Stackoverflow-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </p>
 
 <br />
